@@ -3,8 +3,8 @@ package com.marom.limitsservice.bean;
 
 public class LimitConfiguration {
 
-    int maximum;
-    int minimum;
+    private int maximum;
+    private int minimum;
 
     protected LimitConfiguration() {
     }
